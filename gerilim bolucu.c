@@ -1,6 +1,7 @@
 
 /*
 Gerilim bölücü formülü
+28.11.2020
 */
 #include <stdio.h>
 int main()
