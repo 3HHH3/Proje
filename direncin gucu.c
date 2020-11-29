@@ -81,7 +81,6 @@ int main()
    {
       printf("\n\nHATA: Bilinmeyen bir değer girdiniz!");
    }
-
-      return 0;
    }
+    return 0;
 }
