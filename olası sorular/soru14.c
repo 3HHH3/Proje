@@ -19,6 +19,7 @@ int main(void)
     scanf("%d", &n);
 
     for (i = 1; i <= n; i++)
+ /* i degeri yazdıgımız n degerinden küçük veya eşit olduğu sürece döngü çalışacak ve i degerini her döngü tekrarında bir artacaktır */
     {
         printf("%4d. Eleman: %d\n", i, a);
         c = a + b;
