@@ -1,6 +1,6 @@
 /*
 Hasan Hüseyin Harmancı
-İki sayının OBEBİ ni bulan prg.
+İki sayının OBEB ini bulan prg.
 */
 #include <stdio.h>
  
